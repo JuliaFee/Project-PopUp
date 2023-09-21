@@ -1,0 +1,17 @@
+.error{
+    background-color: rgb(255, 54, 54);
+    border-radius: 6px;
+    max-width: 30%;
+    padding: 20px;
+    color: white;
+}
+
+
+
+.success{
+    background-color: rgb(42, 168, 42);
+    border-radius: 6px;
+    max-width: 30%;
+    padding: 20px;
+    color: white;
+}
